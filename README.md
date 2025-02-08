@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Celestino 👋
 
-<!--
-**celestinoxp/celestinoxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about programming and Machine Learning, constantly seeking opportunities to learn and share knowledge. I actively contribute to open-source projects, notably with [AutoGluon](https://github.com/awslabs/autogluon) and [PyCaret](https://github.com/pycaret/pycaret).
 
-Here are some ideas to get you started:
+If you need help with a project or want to explore new ideas together, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Get in Touch
+
+Let's connect on [LinkedIn](https://www.linkedin.com/in/celestinoxp):
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/celestinoxp)
+
+---
+
+## 🚀 Support My Work
+
+If you appreciate my contributions and would like to support my work, consider contributing via [GitHub Sponsors](https://github.com/sponsors/celestinoxp).
