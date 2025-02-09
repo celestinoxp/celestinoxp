@@ -8,9 +8,10 @@ If you need help with a project or want to explore new ideas together, feel free
 
 ## 📫 Get in Touch
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/celestino-laranjeira-a5099550/):
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/celestino-laranjeira-a5099550/)
+Let's connect on:<br />
+[LinkedIn](https://www.linkedin.com/in/celestino-laranjeira-a5099550/)<br />
+[Facebook](https://www.facebook.com/celestino.laranjeira/)<br />
+Email: celestinoxp@hotmail.com
 
 ---
 
